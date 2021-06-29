@@ -1,0 +1,12 @@
+#personagem {
+  display: none
+}
+#pokebola{
+  display: none
+}
+
+#icanvas {
+  background-image: url(https://s2.glbimg.com/iCE3BjaD3jNVpdLSG6AEsjgn9FQ=/1080x608/top/smart/s.glbimg.com/po/tt/f/original/2013/05/29/pokemon-deluge-liberar-mapas.jpg);
+  background-size: cover;
+  background-repeat: round;
+}

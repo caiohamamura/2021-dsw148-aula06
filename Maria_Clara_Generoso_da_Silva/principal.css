@@ -1,0 +1,12 @@
+#urso {
+    display: none;
+  }
+#arvore {
+   display: none;
+}
+  
+  #icanvas {
+    background-image: url(https://i.pinimg.com/originals/14/a1/a5/14a1a5fb4cccd9254877956b8afef580.png);
+    background-size: cover;
+    background-repeat: round;
+  }

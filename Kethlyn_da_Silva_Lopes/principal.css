@@ -1,0 +1,30 @@
+#meuDiv
+{
+    color: rgba(236, 236, 11, 0.911);
+    font-family: Verdana;
+    font-size: 75px;
+    text-align: center;
+}
+
+#meuform
+{
+    padding: 1em;
+    border: 5px solid chocolate;
+    border-radius: 3em;
+}
+
+#meuCanvas
+{
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-image: url(https://image.freepik.com/vetores-gratis/pixel-art-jogo-fundo-grama-ceu-e-nuvens_210544-60.jpg);
+    border: 10px solid chocolate;
+    border-radius: 2em;
+}
+
+#meuBody
+{
+    position: fixed;
+    background-repeat: repeat;
+    background-image: url(grama.png);
+}

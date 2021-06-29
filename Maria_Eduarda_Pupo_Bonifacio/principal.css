@@ -1,0 +1,20 @@
+#meu-div {
+    color: green;
+}
+
+#meu-texto {
+    width: 100%;
+}
+
+.img-noticia {
+    width: 50vw;
+}
+
+.txt-noticia {
+    width: 50vw;
+}
+
+#meu-canvas {
+    background-image: url("fundo.png");
+    background-repeat: no-repeat;
+}

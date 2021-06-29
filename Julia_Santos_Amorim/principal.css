@@ -1,0 +1,9 @@
+#heroi, #objetivo {
+    display: none;
+  }
+
+  #canvas {
+    background-image: url(https://i.pinimg.com/originals/d6/4b/68/d64b686ffbbbe6239d1de978bfa9e128.png);
+    background-size: cover;
+    background-repeat: round;
+  }

@@ -1,0 +1,12 @@
+#cogumelo{
+    display: none;
+}
+#heroi{
+    display: none;
+}
+
+#icanvas{
+    background-image: url(https://cdn.awsli.com.br/600x450/1238/1238683/produto/68466013/519103b681.jpg);
+    background-repeat: round;
+    background-size: cover;
+}

@@ -1,0 +1,12 @@
+#scooby {
+  display: none
+}
+#snack{
+  display: none
+}
+
+#icanvas {
+  background-image: url(https://pbs.twimg.com/media/EkULfq3XgAA3OSb?format=jpg&name=large);
+  background-size: cover;
+  background-repeat: round;
+}

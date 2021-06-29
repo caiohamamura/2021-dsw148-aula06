@@ -1,0 +1,11 @@
+#kawaii {
+  display: none
+}
+
+
+#meu-canvas {
+  background-image: url(https://cdn.pixabay.com/photo/2018/12/09/18/27/belly-3865433_960_720.png);
+  background-size: cover;
+  background-repeat: round;
+
+}
